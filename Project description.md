@@ -20,4 +20,4 @@ Downloaded the dataset that I will use from here - (https://dataverse.harvard.ed
 As we are learning about data visualization using python matplotlib and pandas libraries, using a large dataset such as CCES election survey would be a good challenge to explore various plotting methods and techniques. I have visualized my features of interest using Altair.
 
 ## Conclusion
-I would like to see how numberical and categorical data are plotted using python libraries and find out interesting outliers if there are any.
+I would like to see how numerical and categorical data are plotted using python libraries and find out interesting outliers if there are any.
