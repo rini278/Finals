@@ -1,8 +1,8 @@
 pandas
 seaborn
-LabelEncoder
+labelencoder
 train_test_split
-LogisticRegression
+logisticregression
 confusion_matrix
 numpy
 matplotlib.pyplot
