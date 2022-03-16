@@ -1,6 +1,5 @@
 pandas
 seaborn
-labelencoder
 train_test_split
 logisticregression
 confusion_matrix
