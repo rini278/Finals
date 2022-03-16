@@ -1,0 +1,13 @@
+pandas
+seaborn
+LabelEncoder
+train_test_split
+LogisticRegression
+confusion_matrix
+numpy
+matplotlib.pyplot
+DecisionTreeClassifier
+metrics
+accuracy_score
+classification_report
+altair
