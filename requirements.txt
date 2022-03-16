@@ -1,12 +1,5 @@
 pandas
 seaborn
-train_test_split
-logisticregression
-confusion_matrix
 numpy
 matplotlib.pyplot
-DecisionTreeClassifier
-metrics
-accuracy_score
-classification_report
 altair
